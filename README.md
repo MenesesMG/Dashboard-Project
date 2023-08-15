@@ -9,6 +9,11 @@ Deployed Link: https://20200020988.github.io/Dashboard/
 
 ![image](https://github.com/20200020988/Dashboard/assets/124771373/230c86e7-af68-46cc-8c10-58bc710b70cf)
 ![image](https://github.com/20200020988/Dashboard/assets/124771373/44b39e6a-047f-45b8-9d87-0fed494ced8c)
+![image](https://github.com/20200020988/Dashboard/assets/124771373/436e7f8f-9d2a-49ad-b014-67068f9b13d0)
+![image](https://github.com/20200020988/Dashboard/assets/124771373/1aa53919-6d8c-45cd-967c-f5d255f756de)
+![image](https://github.com/20200020988/Dashboard/assets/124771373/232cc412-e728-4e6f-a2ca-5461fb300177)
+
+
 
 ## Table of contents
 
