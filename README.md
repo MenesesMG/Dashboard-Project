@@ -12,6 +12,9 @@ This is a submission for the exams to the OJT or Development Internship.
 
 ## Overview
 
+## Live Web View
+Deployed Link: https://20200020988.github.io/Dashboard/
+
 ## Installation
 
 In the project directory, you can run:
