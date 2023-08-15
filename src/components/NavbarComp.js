@@ -92,7 +92,7 @@ export default class NavbarComp extends Component {
         </div>
         <div className='navbar-menu'>
           <DropdownButton id="dropdown-basic-button" title="Menu">
-            <Dropdown.Item href="/"><Link to="/" className="link-no-underline">Dashboard</Link></Dropdown.Item>
+            <Dropdown.Item href="/Dashboard"><Link to="/" className="link-no-underline">Dashboard</Link></Dropdown.Item>
             <Dropdown.Item href="/UserList"><Link to="/UserList" className="link-no-underline">User List</Link></Dropdown.Item>
             <Dropdown.Item onClick={this.toggleSearchHighlight}>Search User</Dropdown.Item>
           </DropdownButton>
