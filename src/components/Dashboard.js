@@ -110,7 +110,7 @@ export default class Dashboard extends Component {
                                 )}
                             </tbody>
                         </table>
-                        <Button href="/UserList" variant="dark"><Link to="/UserList" className="link-no-underline">Expand List..</Link></Button>
+                        <Button variant="dark"><Link to="/UserList" className="link-no-underline">Expand List..</Link></Button>
                     </div>
                 </div>
             </body>
