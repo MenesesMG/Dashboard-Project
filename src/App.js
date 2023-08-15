@@ -1,26 +1,20 @@
+import { useEffect } from "react";
+import "./App.css";
+import Dashboard from "./components/Dashboard";
+import MainLayout from "./layout/MainLayout";
+
 function App() {
-  return (
-    <Navbar>
-      <li>X</li>
-    </Navbar>
-  );
-}
 
-function Navbar(props) {
-  return (
-    <nav className="navbar">
-      <ul className="navbar-nav">
-        { props.children }
-      </ul>
-    </nav>
-  );
-}
+  useEffect (() => {
+    document.title='Dashboard';
+  },[]);
 
-function NavItem(props) {
   return (
-    <li className="nav-item">
-
-    </li>
+    <div className="App">
+    <MainLayout>
+      <Dashboard></Dashboard>
+    </MainLayout>
+    </div>
   );
 }
 export default App;

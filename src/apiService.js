@@ -1,4 +1,3 @@
-// src/apiService.js
 import axios from 'axios';
 
 const BASE_URL = 'https://reqres.in/api';
