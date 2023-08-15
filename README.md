@@ -12,6 +12,15 @@ This is a submission for the exams to the OJT or Development Internship.
 
 ## Overview
 
+## Installation
+
+In the project directory, you can run:
+
+```bash
+npm start
+```
+OR Open http://localhost:3000 to view it in your browser.
+
 ### The challenge
 
 Users should be able to:
