@@ -2,6 +2,14 @@
 
 This is a submission for the exams to the OJT or Development Internship.
 
+### Live Web View
+Deployed Link: https://20200020988.github.io/Dashboard/
+
+### Screenshot
+
+![image](https://github.com/20200020988/Dashboard/assets/124771373/230c86e7-af68-46cc-8c10-58bc710b70cf)
+![image](https://github.com/20200020988/Dashboard/assets/124771373/44b39e6a-047f-45b8-9d87-0fed494ced8c)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -11,9 +19,6 @@ This is a submission for the exams to the OJT or Development Internship.
   - [Built with](#built-with)
 
 ## Overview
-
-## Live Web View
-Deployed Link: https://20200020988.github.io/Dashboard/
 
 ## Installation
 
@@ -37,11 +42,6 @@ OR Open http://localhost:3000 to view it in your browser.
 - GET
 - DELETE
 - PUT (Edit)
-
-### Screenshot
-
-![image](https://github.com/20200020988/Dashboard/assets/124771373/230c86e7-af68-46cc-8c10-58bc710b70cf)
-![image](https://github.com/20200020988/Dashboard/assets/124771373/44b39e6a-047f-45b8-9d87-0fed494ced8c)
 
 ## My process
 
