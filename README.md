@@ -23,13 +23,17 @@ OR Open http://localhost:3000 to view it in your browser.
 
 ### The challenge
 
-Users should be able to:
-
 - View List of users
 - Search for users
 - Edit User Input
 - Delete Users
 - See hover and focus states for all interactive elements on the page
+
+### Reqres API Used
+
+- GET
+- DELETE
+- PUT (Edit)
 
 ### Screenshot
 
