@@ -3,7 +3,7 @@
 This is a submission for the exams to the OJT or Development Internship.
 
 ### Live Web View
-Deployed Link: https://20200020988.github.io/Dashboard/
+Deployed Link: https://MenesesMG.github.io/Dashboard/
 
 ### Screenshot
 Dashboard:
